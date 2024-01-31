@@ -57,3 +57,6 @@ The dataset is ready for training, so we create a naive classifier using scikit-
 ```sh
   streamlit run app.py
 ```
+<p align="center">
+  <img src="images/email_spam_detection_webpage.png"/>
+</p>
