@@ -53,7 +53,7 @@ The dataset is ready for training, so we create a naive classifier using scikit-
    ```sh
    git clone https://github.com/abhishek1959/email-sms-spam-detection.git
    ```
-2. Open 'app.py' in code editor, and run the following command in the terminal
+2. Run the following command in the terminal
 ```sh
   streamlit run app.py
 ```
